@@ -6,8 +6,10 @@
 Amazon Prime Content Analysis
 This repository contains a comprehensive analysis of Amazon Prime Video's content, using Power BI for data visualization. The project explores various aspects such as genre distribution, release trends, viewer ratings, and more.
 
+
 Project Overview
 The analysis aims to uncover insights into the type of content available on Amazon Prime, identify popular genres, and observe trends in viewer preferences. The Power BI dashboard provides an interactive experience, allowing users to filter and explore data easily.
+
 
 Contents
 Power BI Report: The main dashboard file for data visualization.
